@@ -1,0 +1,2 @@
+dwt_delay.h:18:22:DWT_Delay_us	24	static
+hx711.c:12:15:HX711_getValue	16	static
